@@ -1,2 +1,2 @@
-# dolan-ui
+# Dolan UI
 Dolanlabs Design System
